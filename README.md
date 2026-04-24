@@ -1,81 +1,128 @@
 <div align="center">
-    # Murilo Petri - ENGENHARIA DA COMPUTAÇÃO
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=6000&pause=1000&color=33FF33&center=true&vCenter=true&random=false&width=500&lines=DESENVOLVEDOR+FULL+STACK;UNIFESSPA+-+3%C2%B0+PERÍODO;MARABÁ+-+PARÁ;REACT+NATIVE+%7C+NEXT.JS+%7C+NODE.JS)](https://git.io/typing-svg)
 
-  <a href="https://www.linkedin.com/in/murilopetri">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/MuriloPetri">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  
+# 👨‍💻 Murilo Petri
+
+### 🚀 ENGENHARIA DA COMPUTAÇÃO • 7º PERÍODO
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=4000&pause=1000&color=00FFB3&center=true&vCenter=true&width=600&lines=FULL+STACK+DEVELOPER;REACT+%7C+NEXT.JS+%7C+NODE.JS;AWS+%7C+CLOUD+%7C+AUTOMA%C3%87%C3%83O;MARAB%C3%81+-+PAR%C3%81" />
+
+<br>
+
+<a href="https://www.linkedin.com/in/murilopetri">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://github.com/MuriloPetri">
+  <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
 </div>
 
-## 👾 QUEM SOU EU
+---
 
-<img align="right" height="200px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW1jOG90dWNwMGcwYjNta2NvNG02aTZmaTM0cG93ZHF5eDY5a3FzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SO8sDJQB8LXBS/giphy.gif">
+## 👾 SOBRE MIM
+
+<img align="right" height="200px" src="https://media.giphy.com/media/SO8sDJQB8LXBS/giphy.gif">
 
 ```diff
-@@ Informações Pessoais @@
- Nome: \Murilo Petri
- Idade: 22 ANOS
-# Universidade: UNIFESSPA
-@@ Engenharia da Computação - 7° Período @@
+@@ Murilo Petri @@
++ Engenharia da Computação - UNIFESSPA
++ 7º Período
++ Foco: Desenvolvimento Web & Cloud
 
-$ Desenvolvo projetos em React Native, Next.js e Node.js
-$ Automação de sistemas
+! Stack principal:
+# React / Next.js / Node.js
+# HTML / CSS / JavaScript
+# AWS / Cloud / Automação
+
+$ Construindo soluções reais com design moderno
+$ Evoluindo todos os dias 🚀
 ```
 
-<br>
-## 🖥️ LINGUAGENS MAIS USADAS:
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical)
-
-## 📊 ESTATÍSTICAS DO GITHUB
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuriloPetri&show_icons=true&theme=radical)
-
-<br>
-
-## SEQUENCIA DE COMMITS:
-
-![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USERNAME&theme=radical)
-
-## 🔥 PROJETOS EM DESTAQUE
+## 🧠 STACK TECNOLÓGICA
 
 <div align="center">
-  
-  <a href="https://pygmali.vercel.app/">
-  </a>
-  <a href="https://www.vanellimagazine.com.br/">
-  </a>
-  <a href="https://win-osj4.vercel.app/">
-  </a> 
-  <a href="https://ingresso-maraba.vercel.app/  ">
-  </a>
 
-
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,aws,git,github,vscode" />
 
 </div>
 
+---
 
+## 📊 ESTATÍSTICAS
 
 <div align="center">
-  
-  ### 📫 ENTRE EM CONTATO
-  
-  <a href="mailto:murilomauricio@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.instagram.com/murilopetri.dev/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=MuriloPetri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloPetri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
 </div>
 
+---
+
+## 🔥 SEQUÊNCIA DE COMMITS
+
 <div align="center">
-  
-  ![Wave Footer](https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg)
-  
+
+<img src="https://streak-stats.demolab.com?user=MuriloPetri&theme=tokyonight&hide_border=true&background=0d1117"/>
+
+</div>
+
+---
+
+## 🚀 PROJETOS EM DESTAQUE
+
+<div align="center">
+
+<a href="https://ingresso-maraba.vercel.app/">
+  <img src="https://img.shields.io/badge/Sistema%20de%20Ingressos-000?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+
+<a href="https://win-osj4.vercel.app/">
+  <img src="https://img.shields.io/badge/OS%20Interface%20UI-111?style=for-the-badge&logo=windows&logoColor=white">
+</a>
+
+<a href="https://www.vanellimagazine.com.br/">
+  <img src="https://img.shields.io/badge/Vanelli%20Magazine-222?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+
+<a href="https://pygmali.vercel.app/">
+  <img src="https://img.shields.io/badge/Pygmali%20Platform-333?style=for-the-badge&logo=react&logoColor=61DAFB">
+</a>
+
+</div>
+
+---
+
+## 📈 ATIVIDADE
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuriloPetri&theme=tokyo-night&bg_color=0d1117&hide_border=true"/>
+
+</div>
+
+---
+
+## 📫 CONTATO
+
+<div align="center">
+
+<a href="mailto:murilomauricio@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/murilopetri.dev/">
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFB3,100:0d1117&height=120&section=footer"/>
+
 </div>
