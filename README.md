@@ -76,11 +76,11 @@ $ Evoluindo todos os dias 🚀
 <div align="center">
 
 <a href="https://ingresso-maraba.vercel.app/">
-  <img src="https://img.shields.io/badge/Sistema%20de%20Ingressos-000?style=for-the-badge&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/Sistema%20de%20Ingressos-000?style=for-the-badge">
 </a>
 
 <a href="https://win-osj4.vercel.app/">
-  <img src="https://img.shields.io/badge/Win-111?style=for-the-badge&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/Win-111?style=for-the-badge">
 </a>
 
 <a href="https://www.vanellimagazine.com.br/">
@@ -88,7 +88,7 @@ $ Evoluindo todos os dias 🚀
 </a>
 
 <a href="https://pygmali.vercel.app/">
-  <img src="https://img.shields.io/badge/Pygmali%20-333?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Pygmali%20-333?style=for-the-badge">
 </a>
 
 </div>
