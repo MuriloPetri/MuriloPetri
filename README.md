@@ -21,7 +21,6 @@
 
 ## 👾 SOBRE MIM
 
-<img align="right" height="200px" src="https://media.giphy.com/media/SO8sDJQB8LXBS/giphy.gif">
 
 ```diff
 @@ Murilo Petri @@
