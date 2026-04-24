@@ -80,7 +80,7 @@ $ Evoluindo todos os dias 🚀
 </a>
 
 <a href="https://win-osj4.vercel.app/">
-  <img src="https://img.shields.io/badge/OS%20Interface%20UI-111?style=for-the-badge&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/Win-111?style=for-the-badge&logo=windows&logoColor=white">
 </a>
 
 <a href="https://www.vanellimagazine.com.br/">
