@@ -1,10 +1,5 @@
-# MURILO PETRI 
-
 <div align="center">
-  
-  
-
-  # Murilo Petri - ENGENHARIA DA COMPUTAÇÃO
+    # Murilo Petri - ENGENHARIA DA COMPUTAÇÃO
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=6000&pause=1000&color=33FF33&center=true&vCenter=true&random=false&width=500&lines=DESENVOLVEDOR+FULL+STACK;UNIFESSPA+-+3%C2%B0+PERÍODO;MARABÁ+-+PARÁ;REACT+NATIVE+%7C+NEXT.JS+%7C+NODE.JS)](https://git.io/typing-svg)
 
