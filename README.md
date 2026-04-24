@@ -43,7 +43,7 @@ $ Evoluindo todos os dias 🚀
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,aws,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,aws" />
 
 </div>
 
