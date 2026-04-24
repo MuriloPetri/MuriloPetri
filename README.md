@@ -88,7 +88,7 @@ $ Evoluindo todos os dias 🚀
 </a>
 
 <a href="https://pygmali.vercel.app/">
-  <img src="https://img.shields.io/badge/Pygmali%20Platform-333?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Pygmali%20-333?style=for-the-badge&logo=react&logoColor=61DAFB">
 </a>
 
 </div>
