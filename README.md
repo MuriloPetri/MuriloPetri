@@ -84,7 +84,7 @@ $ Evoluindo todos os dias 🚀
 </a>
 
 <a href="https://www.vanellimagazine.com.br/">
-  <img src="Vanelli%20Magazine-222?style=for-the-badge&logo=googlechrome&logoColor=white">
+  <img src="https://img.shields.io/badge/Vanelli%20Magazine-222?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
 
 <a href="https://pygmali.vercel.app/">
