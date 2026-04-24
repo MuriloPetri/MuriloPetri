@@ -2,9 +2,7 @@
 
 <div align="center">
   
-  ![Matrix Header](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
   
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTgxNjF3M3kyMzd5a283aDl3aXQxZm5wb2MyZDZpZG15MXF6dW45bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="150">
 
   # Murilo Petri - ENGENHARIA DA COMPUTAÇÃO
   
